@@ -1,0 +1,2 @@
+cloudflare : {'mail': 'email@change.this', 'api_key': 'change this'}
+aws : {'access_key': 'change this', 'secret_key': 'change this', 'session_token':'change this'}
